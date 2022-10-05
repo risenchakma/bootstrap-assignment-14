@@ -1,0 +1,10 @@
+.box{
+	margin-bottom: 5px;
+	min-height: 100px;
+	background-color: blue;
+}
+
+.mh_300{
+	min-height: 300px;
+	background-color: yellow;
+}
